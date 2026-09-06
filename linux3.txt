@@ -1,0 +1,7 @@
+Linux Advantages:
+1.open sources
+2.secure
+3.free to use
+4.multi-user
+5.Multi-tasking
+
