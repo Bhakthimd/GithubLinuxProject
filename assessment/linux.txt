@@ -9,4 +9,7 @@ list all files,inclusing hidden files,with detailed
 cd changes the current directory
 mkdir
 creates new directory
-touch-creates new empty file
+touch-creates new empty files
+Hey WhatsUp!!
+Sania
+
